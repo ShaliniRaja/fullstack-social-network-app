@@ -1,0 +1,30 @@
+.trend-item {
+
+    padding: 20px 0;
+
+    font-size: 18px;
+
+    color: #444;
+
+    cursor: pointer;
+
+    border-bottom: 1px solid #f0f0f0;
+
+    transition: .2s;
+
+
+}
+
+.trend-item:last-child {
+
+    border-bottom: none;
+
+}
+
+.trend-item:hover {
+
+    color: #08b908;
+
+    padding-left: 8px;
+
+}

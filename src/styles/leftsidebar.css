@@ -1,0 +1,98 @@
+.left-sidebar {
+
+    width: 100%;
+    min-height: 88vh;
+
+    background: #fff;
+
+    border-radius: 15px;
+
+    box-shadow: 0 4px 12px rgba(0,0,0,.08);
+
+    padding: 30px 20px;
+
+}
+
+.profile-card {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.profile-image {
+
+    width: 180px;
+    height: 180px;
+
+    border-radius: 50%;
+
+    object-fit: cover;
+
+    border: 6px solid #08b908;
+
+    margin-bottom: 20px;
+
+}
+
+.profile-placeholder {
+
+    width: 180px;
+    height: 180px;
+
+    border-radius: 50%;
+
+    background: #b7ccb7;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 100px;
+
+    color: white;
+
+    border: 6px solid #d8ffd8;
+
+    margin-bottom: 20px;
+
+}
+
+.profile-card h3 {
+
+    font-size: 28px;
+    margin-bottom: 5px;
+
+}
+
+.job {
+
+    color: #666;
+    font-size: 18px;
+    text-align: center;
+
+}
+
+hr {
+
+    width: 100%;
+    margin: 25px 0;
+
+}
+
+.profile-info {
+
+    width: 100%;
+
+}
+
+.profile-info p {
+
+    margin-bottom: 20px;
+
+    font-size: 16px;
+
+    line-height: 1.6;
+
+}
